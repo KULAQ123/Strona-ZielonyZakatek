@@ -16,4 +16,4 @@ Strona została zbudowana przy użyciu następujących technologii:
 
 1. **Klonowanie repozytorium**:
    ```bash
-   git clone https://github.com/twoje-repozytorium/zielona-aranzacja.git
+   git clone https://github.com/KULAQ123/Strona-ZielonyZakatek.git
