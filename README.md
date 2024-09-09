@@ -1,4 +1,4 @@
-# Zielona Aranżacja Wnętrz
+# Strona ZielonyZakątek.pl
 
 ## O projekcie
 
